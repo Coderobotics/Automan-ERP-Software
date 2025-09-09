@@ -3,6 +3,8 @@
 
 Automan ERP is comprehensive ERP which includes all in one. Automan supports multiple branch or companies. Management can access information about a specific branch of the companies in one click. Manage Products group registration, products and multiple products registration. Manage Products specification registrations such batch, branch, size, unit, tax and model number etc. Register details for godowns, rack, area, route and counters. Manage supplier’s details, service category and service registrations, product register. Manage pricing level, currency, exchange rate, price lists, standard rate, voucher type, sales man, follow-up. Register accounts groups, ledger accounts, and multiple accounts. Automan ERP Software has Account transactions such payment voucher, receipt voucher, journal voucher, contra voucher and bank reconciliation etc. Manage budget, budget variance, remainder for personal, overdue purchase order, overdue sales order, overdue sales invoice, short expiry and stock. Registration for employee, designation, salary pack, daily sales voucher, monthly sales voucher, advance register, bonus deduction, monthly salary register, daily salary register. Manage Pay head, holiday settings, monthly salary settings, attendance, advance payment, bonus deduction, generate pay slips.
 
+<img src="https://www.aspscriptsonline.com/frontend/assets/templates/1738265079_a74306c7f49325149b43.webp">
+
 <b>Automan ERP Software has the following core modules:</b>
 
 <ul>
@@ -20,5 +22,15 @@ Automan ERP is comprehensive ERP which includes all in one. Automan supports mul
 <li>Manage Payroll</li>
 <li>Reports</li>
 </ul>
-<b>More details and download link:</b></br>
-<b>https://www.aspscriptsonline.com/product/automan-erp/</b>
+
+More details and download project
+https://www.aspscriptsonline.com/product/desktop-automan-erp
+
+If you're looking for readymade php scripts
+https://www.phpscriptsonline.com/products
+
+If you're looking for readymade ASP.Net, C# software source code
+https://www.aspscriptsonline.com/products
+
+If you're looking for digital marketing services, insights, AI-powered strategies.
+https://www.coderobotics.com/blog
